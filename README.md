@@ -7,7 +7,7 @@ Full-Stack Developer · Graphic Designer · Photographer
 *Building things that work, look good, and occasionally predict strokes.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debarghya4/)
-[![Gmail](https://img.shields.io/badge/Gmail-181717?style=flat-square&logo=gmail&logoColor=red)](debarghyadatta2004@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-181717?style=flat-square&logo=gmail&logoColor=red)](mailto:debarghyadatta2004@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/pyaaz._/)
 [![Location](https://img.shields.io/badge/📍-%20India-green?style=flat-square)](https://maps.google.com/?q=India)
 
