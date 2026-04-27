@@ -6,8 +6,8 @@ Full-Stack Developer · Graphic Designer · Photographer
 
 *Building things that work, look good, and occasionally predict strokes.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debarghya4/)
-[![Gmail](https://img.shields.io/badge/Gmail-181717?style=flat-square&logo=gmail&logoColor=red)](mailto:debarghyadatta2004@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/debarghya4/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:debarghyadatta2004@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/pyaaz._/)
 [![Location](https://img.shields.io/badge/📍-%20India-green?style=flat-square)](https://maps.google.com/?q=India)
 
@@ -40,7 +40,7 @@ I'm a final-year **B.Tech Computer Science** student passionate about building f
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 
 **Tools & Platforms**
 
