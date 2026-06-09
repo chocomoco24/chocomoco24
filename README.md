@@ -13,17 +13,6 @@ Full-Stack Developer · Graphic Designer · Photographer
 
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-I'm a final-year **B.Tech Computer Science** student passionate about building full-stack web applications with clean architecture and real-world impact. My work spans from **AI-integrated analytics platforms** to **machine learning-powered healthcare tools**.
-
-- 🔭 Currently working on production-ready full-stack projects using **React + NodeJs**
-- 🎨 Also a graphic designer and photographer — I care deeply about how things *look*
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
