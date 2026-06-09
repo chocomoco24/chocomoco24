@@ -1,51 +1,90 @@
-<div align="center">
-
-# 👋 Hey, I'm Debarghya Datta
-
-Full-Stack Developer · Graphic Designer · Photographer
-
-*Building things that work, look good, and occasionally predict strokes.*
-
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/debarghya4/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:debarghyadatta2004@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/pyaaz._/)
-[![Location](https://img.shields.io/badge/📍-%20India-green?style=flat-square)](https://maps.google.com/?q=India)
-
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=140&section=header&reversal=false&text=Hey,%20I'm%20Debarghya&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=-&animation=twinkling&desc=FULL-STACK%20DEVELOPER&descSize=20&descAlign=50&descAlignY=65&textBg=false&theme=onedark"  />
 </div>
 
-## 🛠️ Tech Stack
+###
 
-**Languages**
+<p align="center">Building things that work, look good, and occasionally predict strokes.</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+###
 
-**Frameworks & Technologies**
+<h2 align="left">I code with</h2>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+###
 
-**Tools & Platforms**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="35" alt="composer logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="35" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
+</div>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+###
 
----
+<h2 align="left">Connect with me</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/debarghya4/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="32" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="44" height="32" alt="discord logo"  />
+  <a href="https://x.com/debarghyadatta4" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="44" height="32" alt="twitter logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="32" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="44" height="32" alt="facebook logo"  />
+  <a href="https://www.instagram.com/pyaaz._/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="44" height="32" alt="instagram logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="44" height="32" alt="spotify logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="44" height="32" alt="telegram logo"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=true&text=%22Write%20code%20that%20works.%20Design%20things%20that%20feel%20right.%22&fontSize=12&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
+
+###
 
 <div align="center">
-
-*"Write code that works. Design things that feel right."*
-
-![Profile views](https://komarev.com/ghpvc/?username=debarghya4&style=flat-square&color=blue)
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=chocomoco24.chocomoco24&"  />
 </div>
+
+###
