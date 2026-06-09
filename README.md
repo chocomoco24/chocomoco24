@@ -79,8 +79,14 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"  />
+</div>
+
+###
+
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&text=%22Write%20code%20that%20works.%20Design%20things%20that%20feel%20right.%22&fontSize=12&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox_light"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&text=%22Write%20code%20that%20works.%20Design%20things%20that%20feel%20right.%22&fontSize=12&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
 </div>
 
 ###
