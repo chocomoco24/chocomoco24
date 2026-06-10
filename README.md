@@ -14,7 +14,7 @@
   
 ###
 
-<h2 align="center">Technologies </h2>
+<h2 align="center">Tools</h2>
 
 ###
 
@@ -65,7 +65,7 @@
 
 ###
 
-<h2 align="center">Connect with me</h2>
+<h2 align="center">Connections</h2>
 
 ###
 
