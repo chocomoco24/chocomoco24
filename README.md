@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">Building things that work, look good, and occasionally predict strokes.</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&letterSpacing=0px&duration=6000&pause=1000&color=EE9800&center=true&vCenter=true&repeat=false&width=700&lines=Building+software+that+solves+problems+before+they+become+tickets." alt="Typing SVG" /></a>
 
 ###
 
@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
   <img width="3" />
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
@@ -60,7 +60,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/debarghya4/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="32" alt="linkedin logo"  />
   </a>
