@@ -1,5 +1,6 @@
-
- <h3 align=center><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="35" height="35" /> 𝙃𝙚𝙮,</h3>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="50" height="50" /> <img src="assets/hey.png" height="50" />
+</div>
 
 
 ###
@@ -111,5 +112,5 @@
 ###
 
 <div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&text=%22Write%20code%20that%20works.%20Design%20things%20that%20feel%20right.%22&fontSize=12&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=false&text=%22Write%20code%20that%20works.%20Design%20things%20that%20feel%20right.%22&fontSize=15&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
 </div>
