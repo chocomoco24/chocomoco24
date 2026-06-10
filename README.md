@@ -74,8 +74,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-debarghyadatta2004@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:debarghyadatta2004@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Debarghya%20Datta-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://https://www.linkedin.com/in/debarghya4/ "Connect on LinkedIn")
 [![Instagram Badge](https://img.shields.io/badge/-@pyaaz.__-DD2A7B?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/pyaaz._/ "Contact on Instagram")
-[![X Badge](https://img.shields.io/badge/-@pyaaz__-00acee?style=flat&logo=X&logoColor=black)](https://x.com/pyaaz__ "Follow on X")
-[![Discord Badge](https://img.shields.io/badge/-Discord-0078FF?style=flat&logo=Discord&logoColor=white)](https://m.me/samujjwaal "Connect on Discord")
+[![X Badge](https://img.shields.io/badge/-@__pyaaz__-161B22?style=flat&logo=X&logoColor=white)](https://x.com/_pyaaz_ "Follow on X")
+[![Discord Badge](https://img.shields.io/badge/-CH0C0M0C0-0078FF?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/744781883568816209 "Connect on Discord")
   
 </div>
 
