@@ -1,5 +1,12 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&reversal=false&text=Hey,%20I'm%20Debarghya&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=-&animation=twinkling&desc=FULL-STACK%20DEVELOPER&descSize=20&descAlign=50&descAlignY=65&textBg=false&theme=gruvbox_light"  />
+
+ <h3 align=center><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="35" height="35" /> 𝙃𝙚𝙮,</h3>
+
+
+###
+
+<div align=center>
+	
+  <img  style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&reversal=false&text=I'm%20Debarghya&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&textBg=false&theme=onedark"  />
 </div>
 
 ###
@@ -14,7 +21,7 @@
   
 ###
 
-<h2 align="center">Tools</h2>
+<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="25" height="25" /> Tools</h2>
 
 ###
 
@@ -24,8 +31,8 @@
     <kbd>Back-end</kbd>
     <br>
     <br>
-    <img width="30px" src="https://skillicons.dev/icons?i=java" height="35" alt="java logo" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"/>
+    <img width="50px" src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
     <br>
   </kbd>
   <a>​​​​​​​​ㅤ</a>
@@ -33,30 +40,31 @@
     <kbd>Front-end</kbd>
     <br>
     <br>
-    <img width="30px" src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo" /> 
-    <img width="30px" src="https://skillicons.dev/icons?i=css" height="35" alt="css logo" /> 
-    <img width="30px" src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo" />
+    <img width="40px" src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" /> 
+    <img width="40px" src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" /> 
+    <img width="40px" src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
   </kbd>
   <a>​​​​​​​​ㅤ</a>
   <kbd>
     <kbd>Library/FrameWorks</kbd>
     <br>
     <br>
-    <img width="30px" src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"/>
-    <img width="30px" src="https://skillicons.dev/icons?i=react" height="35" alt="react logo" /> 
-    <img width="30px" src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo" /> 
+    <img width="40px" src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"/>
+    <img width="40px" src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" /> 
+    <img width="40px" src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" /> 
   </kbd>
-  <a>​​​​​​​​ㅤ</a>
+	<br>
+	<br>
   <kbd>
     <kbd>Outros</kbd>
     <br>
     <br>
-    <img width="30px" src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"/>
-    <img width="30px" src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"/> 
-    <img width="30px" src="https://skillicons.dev/icons?i=githubactions" height="35" alt="githubactions logo" />
-    <img width="30px" src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo" />
-    <img width="30px" src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo" />
-    <img width="30px" src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo" />
+    <img width="40px" src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"/>
+    <img width="40px" src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/> 
+    <img width="40px" src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo" />
+    <img width="40px" src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+    <img width="40px" src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
+    <img width="40px" src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
   </kbd>
   <br>
 </div>
@@ -65,7 +73,20 @@
 
 ###
 
-<h2 align="center">Connections</h2>
+<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> GitHub Stats</h2>
+
+###
+
+<div align="center">
+	
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chocomoco24&theme=gruvbox)
+
+</div>
+<br>
+
+###
+
+<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="25" height="25" /> Connections</h2>
 
 ###
 
@@ -90,14 +111,5 @@
 ###
 
 <div align="center">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chocomoco24&theme=gruvbox)
-
-
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&text=%22Write%20code%20that%20works.%20Design%20things%20that%20feel%20right.%22&fontSize=12&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&text=%22Write%20code%20that%20works.%20Design%20things%20that%20feel%20right.%22&fontSize=12&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
 </div>
