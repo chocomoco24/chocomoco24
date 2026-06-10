@@ -89,7 +89,12 @@
 
 ###
 
-![Alt](https://repobeats.axiom.co/api/embed/7120f3c44ac45effb8ebb6d15a16acf77ec1f12e.svg "Repobeats analytics image")
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chocomoco24&theme=gruvbox)
+
+
+</div>
 
 ###
 
