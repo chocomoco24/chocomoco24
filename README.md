@@ -9,77 +9,77 @@
   <i>Building software that solves problems before they become tickets.</i>
   
 </div>
+
+<br>
   
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">Technologies </h2>
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
-  <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
-  <img width="3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="35" alt="composer logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="35" alt="githubactions logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="35" alt="vercel logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=figma" height="35" alt="figma logo"  />
-  <img width="3" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
+<div>
+<p style="display: inline-block;" align="center">
+   <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://skillicons.dev/icons?i=java" height="35" alt="java logo" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"/>
+    <br>
+  </kbd>
+  <a>​​​​​​​​ㅤ</a>
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo" /> 
+    <img width="30px" src="https://skillicons.dev/icons?i=css" height="35" alt="css logo" /> 
+    <img width="30px" src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo" />
+  </kbd>
+  <a>​​​​​​​​ㅤ</a>
+  <kbd>
+    <kbd>Library/FrameWorks</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"/>
+    <img width="30px" src="https://skillicons.dev/icons?i=react" height="35" alt="react logo" /> 
+    <img width="30px" src="https://skillicons.dev/icons?i=laravel" height="35" alt="laravel logo" /> 
+  </kbd>
+  <a>​​​​​​​​ㅤ</a>
+  <kbd>
+    <kbd>Outros</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"/>
+    <img width="30px" src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"/> 
+    <img width="30px" src="https://skillicons.dev/icons?i=githubactions" height="35" alt="githubactions logo" />
+    <img width="30px" src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo" />
+    <img width="30px" src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo" />
+    <img width="30px" src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo" />
+  </kbd>
+  <br>
 </div>
 
-###
-
-<h2 align="left">Connect with me</h2>
+<br>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/debarghya4/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="49" height="32" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="49" height="32" alt="discord logo"  />
-  <a href="https://x.com/debarghyadatta4" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="49" height="32" alt="twitter logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="49" height="32" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="49" height="32" alt="facebook logo"  />
-  <a href="https://www.instagram.com/pyaaz._/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="49" height="32" alt="instagram logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="49" height="32" alt="spotify logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="49" height="32" alt="telegram logo"  />
+<h2 align="center">Connect with me</h2>
+
+###
+
+<div align="center">
+
+[![Gmail Badge](https://img.shields.io/badge/-debarghyadatta2004@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:debarghyadatta2004@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Debarghya%20Datta-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://https://www.linkedin.com/in/debarghya4/ "Connect on LinkedIn")
+[![Instagram Badge](https://img.shields.io/badge/-@pyaaz.__-DD2A7B?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/pyaaz._/ "Contact on Instagram")
+[![X Badge](https://img.shields.io/badge/-@pyaaz__-00acee?style=flat&logo=X&logoColor=black)](https://x.com/pyaaz__ "Follow on X")
+[![Discord Badge](https://img.shields.io/badge/-Discord-0078FF?style=flat&logo=Discord&logoColor=white)](https://m.me/samujjwaal "Connect on Discord")
+  
 </div>
+
+<br>
 
 ###
 
@@ -92,5 +92,3 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&text=%22Write%20code%20that%20works.%20Design%20things%20that%20feel%20right.%22&fontSize=12&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
 </div>
-
-###
