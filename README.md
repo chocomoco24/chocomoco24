@@ -4,7 +4,7 @@
 
 ###
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&letterSpacing=0px&duration=6000&pause=1000&color=EE9800&center=true&vCenter=true&repeat=false&width=700&lines=Building+software+that+solves+problems+before+they+become+tickets." alt="Typing SVG" /></a>
+[<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&letterSpacing=0px&duration=6000&pause=1000&color=EE9800&center=true&vCenter=true&repeat=false&width=700&lines=Building+software+that+solves+problems+before+they+become+tickets." alt="Typing SVG" /></a>](https://readme-typing-svg.demolab.com/demo/?font=Montserrat&weight=500&letterSpacing=0px&duration=6000&color=EE9800&center=true&repeat=false&width=700&lines=Building+software+that+solves+problems+before+they+become+tickets.)
 
 ###
 
