@@ -1,13 +1,14 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="50" height="50" /> <img src="assets/hey.png" height="50" />
+<div align=left>
+	<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="50" height="50" /> 
+	<img align=top src="assets/hey.png" height="60" />
 </div>
-
 
 ###
 
 <div align=center>
 	
-  <img  style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&reversal=false&text=I'm%20Debarghya&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&textBg=false&theme=onedark"  />
+<img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&reversal=false&text=I'm%20Debarghya&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&textBg=false&theme=onedark"/>
+
 </div>
 
 ###
@@ -22,7 +23,7 @@
   
 ###
 
-<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="25" height="25" /> Tools</h2>
+<h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist Light Skin Tone" width="30" height="30" /> Tools</h1>
 
 ###
 
@@ -74,7 +75,7 @@
 
 ###
 
-<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="25" height="25" /> GitHub Stats</h2>
+<h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="30" height="30" /> GitHub Stats</h1>
 
 ###
 
@@ -87,7 +88,7 @@
 
 ###
 
-<h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="25" height="25" /> Connections</h2>
+<h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="30" height="30" /> Connections</h1>
 
 ###
 
@@ -98,6 +99,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@pyaaz.__-DD2A7B?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/pyaaz._/ "Contact on Instagram")
 [![X Badge](https://img.shields.io/badge/-@__pyaaz__-161B22?style=flat&logo=X&logoColor=white)](https://x.com/_pyaaz_ "Follow on X")
 [![Discord Badge](https://img.shields.io/badge/-CH0C0M0C0-0078FF?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/744781883568816209 "Connect on Discord")
+[![Portfolio](https://img.shields.io/badge/Debarghya-Portfolio-6A5ACD?style=plastic&logo=about-dot-me&logoColor=white)](https://debarghya.vercel.app/)
   
 </div>
 
