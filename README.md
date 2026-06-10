@@ -89,6 +89,10 @@
 
 ###
 
+![Alt](https://repobeats.axiom.co/api/embed/7120f3c44ac45effb8ebb6d15a16acf77ec1f12e.svg "Repobeats analytics image")
+
+###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&text=%22Write%20code%20that%20works.%20Design%20things%20that%20feel%20right.%22&fontSize=12&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
 </div>
