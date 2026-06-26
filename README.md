@@ -7,7 +7,7 @@
 
 <div align=center>
 	
-<img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&reversal=false&text=I'm%20Debarghya&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&textBg=false&theme=onedark"/>
+<img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&reversal=false&text=I'm%20Debarghya&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&textBg=false&theme=onedark"/>
 
 </div>
 
