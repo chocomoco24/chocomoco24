@@ -78,16 +78,16 @@
 
 ###
 
-<!-- <h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="30" height="30" /> GitHub Stats</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="30" height="30" /> GitHub Stats</h1>
 
 ###
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default&animation=load)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chocomoco24&theme=gruvbox&name=chocomoco24)
 
 </div>
-<br> -->
+<br>
 
 ###
 
@@ -102,7 +102,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@pyaaz.__-DD2A7B?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/pyaaz._/ "Contact on Instagram")
 [![X Badge](https://img.shields.io/badge/-@__pyaaz__-161B22?style=flat&logo=X&logoColor=white)](https://x.com/_pyaaz_ "Follow on X")
 [![Discord Badge](https://img.shields.io/badge/-CH0C0M0C0-0078FF?style=flat&logo=Discord&logoColor=white)](https://discord.com/users/744781883568816209 "Connect on Discord")
-[![Portfolio](https://img.shields.io/badge/Debarghya-Portfolio-6A5ACD?style=plastic&logo=about-dot-me&logoColor=white)](https://debarghya.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Debarghya-Portfolio-6A5ACD?style=plastic&logo=about-dot-me&logoColor=white)](https://debarghya.website/)
   
 </div>
 
