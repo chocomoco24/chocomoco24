@@ -76,7 +76,7 @@
 
 <br>
 
-###
+<!--###
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="30" height="30" /> GitHub Stats</h1>
 
@@ -87,7 +87,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chocomoco24&theme=gruvbox&name=chocomoco24)
 
 </div>
-<br>
+<br>-->
 
 ###
 
