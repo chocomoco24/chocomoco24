@@ -35,6 +35,7 @@
     <br>
     <img width="50px" src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
 	<img width="50px" src="https://skillicons.dev/icons?i=php" height="40" alt="java logo" />
+	<img width="40px" src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"/>
     <br>
   </kbd>
   <a>​​​​​​​​ㅤ</a>
@@ -53,7 +54,7 @@
     <kbd>Library/FrameWorks</kbd>
     <br>
     <br>
-    <img width="40px" src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"/>
+    <img width="40px" src="https://skillicons.dev/icons?i=expressjs" height="40" alt="expressjs logo"/>
     <img width="40px" src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" /> 
     <img width="40px" src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" /> 
   </kbd>
@@ -64,19 +65,17 @@
     <br>
     <br>
     <img width="40px" src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"/>
-    <img width="40px" src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"/>
-	<img width="40px" src="https://skillicons.dev/icons?i=obsidian" height="40" alt="git logo"/>
+	<img width="40px" src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"/>
     <img width="40px" src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo" />
     <img width="40px" src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
     <img width="40px" src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
-    <img width="40px" src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" />
   </kbd>
   <br>
 </div>
 
 <br>
 
-<!--###
+###
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="30" height="30" /> GitHub Stats</h1>
 
@@ -87,7 +86,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chocomoco24&theme=gruvbox&name=chocomoco24)
 
 </div>
-<br>-->
+<br>
 
 ###
 
